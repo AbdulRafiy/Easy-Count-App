@@ -34,9 +34,13 @@ All match data is stored locally on the user’s device in Hive “boxes.”
 ✅ Why Hive?
 
 Fast and lightweight
+
 Works completely offline
+
 No SQL required
+
 Perfect for structured Flutter data
+
 Provides instant read/write access
 __________________________________________________________________________________________________________________
 🌟 Key Features
@@ -44,23 +48,29 @@ ________________________________________________________________________________
 🏏 Match Management:
 
 Create and manage new matches
+
 Real-time scoring (runs, wickets, extras)
+
 Scoreboard and inning summaries
 
 📊 Player Statistics:
 
 View batsman and bowler performance
+
 Track 4s, 6s, strike rates, and economy
 
 🕒 History & Summary:
 
 Access old matches with full details
+
 Tab-based match summary (1st & 2nd innings)
 
 📋 Drawer Screens:
 
 About Us
+
 Contact Us
+
 Terms & Conditions
 ____________________________________________________________________________________________________________________
 🧠 App Structure:
