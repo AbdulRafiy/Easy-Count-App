@@ -18,7 +18,7 @@ ________________________________________________________________________________
  State Management | Stateful Widgets         
  UI Framework     | Material Design          
  IDE              | Android Studio / VS Code 
- ___________________________________________________________________________________________________________
+ _____________________________________________________________________________________________________________
 🗃️ Local Database – Hive:
 
 The app uses Hive, a lightweight, NoSQL database designed for Flutter.
