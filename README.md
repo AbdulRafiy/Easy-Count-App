@@ -1,15 +1,16 @@
-🏏 Easy Count App
+🏏 Easy Count App:
 
 A Flutter-based mobile application for managing and scoring cricket matches in real-time.
 It enables users to create new matches, track scores, view player statistics, and manage summaries — all offline using Hive Database for data storage.
 _______________________________________________________________________________________________________________________________________________________________
-📱 Overview
+📱 Overview:
+
 Easy Count App simplifies cricket match management for players, scorers, and enthusiasts.
 It provides tools to record runs, wickets, overs, and extras efficiently.
 Users can review match summaries and player performance anytime, even without internet access.
 The app functions fully offline using Hive local storage for smooth performance and reliability.
 _________________________________________________________________________________________________________
-⚙️ Tech Stack
+⚙️ Tech Stack:
  Category         | Tools / Frameworks   
  ---------------- | ------------------------ 
  Frontend         | Flutter (Dart)           
@@ -18,7 +19,8 @@ ________________________________________________________________________________
  UI Framework     | Material Design          
  IDE              | Android Studio / VS Code 
  ___________________________________________________________________________________________________________
-🗃️ Local Database – Hive
+🗃️ Local Database – Hive:
+
 The app uses Hive, a lightweight, NoSQL database designed for Flutter.
 All match data is stored locally on the user’s device in Hive “boxes.”
 
@@ -30,6 +32,7 @@ All match data is stored locally on the user’s device in Hive “boxes.”
 | `summaryBox` | Contains overall match summaries                        |
 
 ✅ Why Hive?
+
 Fast and lightweight
 Works completely offline
 No SQL required
@@ -37,25 +40,30 @@ Perfect for structured Flutter data
 Provides instant read/write access
 __________________________________________________________________________________________________________________
 🌟 Key Features
-🏏 Match Management
+
+🏏 Match Management:
+
 Create and manage new matches
 Real-time scoring (runs, wickets, extras)
 Scoreboard and inning summaries
 
-📊 Player Statistics
+📊 Player Statistics:
+
 View batsman and bowler performance
 Track 4s, 6s, strike rates, and economy
 
-🕒 History & Summary
+🕒 History & Summary:
+
 Access old matches with full details
 Tab-based match summary (1st & 2nd innings)
 
-📋 Drawer Screens
+📋 Drawer Screens:
+
 About Us
 Contact Us
 Terms & Conditions
 ____________________________________________________________________________________________________________________
-🧠 App Structure
+🧠 App Structure:
  Folder             | Description                                                           
  ------------------ | ------------------------------------------------------------------------- 
  drawer_screens/    | Contains About Us, Contact Us, and Terms & Conditions screens             
@@ -66,7 +74,7 @@ ________________________________________________________________________________
  splash_screen.dart | Splash screen for app launch                                              
  main.dart          | Entry point for the app   
 __________________________________________________________________________________________________________________________________________________
- 🚀 Getting Started
+ 🚀 Getting Started:
 1️⃣ Clone the Repository
 git clone https://github.com/AbdulRafiy/EasyCount.git
 cd EasyCount
